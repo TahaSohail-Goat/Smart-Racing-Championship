@@ -1,0 +1,21 @@
+{
+  "course": "Design and Analysis of Algorithms",
+  "semester": "Semester 5",
+  "campus": "Islamabad",
+  "section": "B",
+  "members": [
+    {
+      "name": "Taha Sohail",
+      "registration": "24i-3165"
+    },
+    {
+      "name": "Muhammad Shaheer",
+      "registration": "24i-3063"
+    },
+    {
+      "name": "Abdullah Adnan",
+      "registration": "24i-3020"
+    }
+  ],
+  "report_date": "23 November 2026"
+}
