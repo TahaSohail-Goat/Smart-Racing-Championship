@@ -8,7 +8,10 @@ import zipfile
 
 ROOT = Path(__file__).resolve().parents[1]
 INCLUDED_DIRS = ("src", "assets", "data", "docs", "experiments", "tests", "scripts")
-ROOT_FILES = ("README.md", "PROJECT_STRUCTURE.md", "pyproject.toml", "requirements.txt", ".python-version")
+ROOT_FILES = (
+    "README.md", "PROJECT_STRUCTURE.md", "pyproject.toml", "requirements.txt",
+    ".python-version", "Play.cmd", "CHANGELOG.md",
+)
 
 
 def main():
